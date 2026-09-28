@@ -1,0 +1,7 @@
+{
+    "0": "Normal",
+    "1": "Ping DoS",
+    "2": "SYN Flood",
+    "3": "Nmap Scan",
+    "4": "Brute Force"
+}
